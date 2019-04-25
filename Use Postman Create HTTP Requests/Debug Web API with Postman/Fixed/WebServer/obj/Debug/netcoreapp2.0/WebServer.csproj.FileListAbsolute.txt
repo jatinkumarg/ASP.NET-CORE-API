@@ -1,0 +1,11 @@
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\webAPI\Use Postman Create HTTP Requests\Debug Web API with Postman\Fixed\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

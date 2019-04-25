@@ -1,0 +1,11 @@
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.deps.json
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.json
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.dev.json
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.dll
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.pdb
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.csprojAssemblyReference.cache
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.csproj.CoreCompileInputs.cache
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfoInputs.cache
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfo.cs
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.dll
+C:\webAPI\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.pdb
